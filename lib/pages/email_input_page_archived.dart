@@ -1,4 +1,4 @@
-// file: lib/pages/email_input_page.dart
+// file: lib/pages/email_input_page_archived.dart
 
 import 'package:flutter/material.dart';
 

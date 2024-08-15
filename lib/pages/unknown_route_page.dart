@@ -7,13 +7,10 @@ class UnknownRoutePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Page Not Found'),
+        title: Text('Unknown Route'),
       ),
       body: Center(
-        child: Text(
-          'The page you are looking for does not exist.',
-          style: TextStyle(fontSize: 24),
-        ),
+        child: Text('This is an unknown route.'),
       ),
     );
   }

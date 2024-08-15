@@ -1,4 +1,4 @@
-// Filename: member_navigation_widget.dart
+// file: lib/pages/widgets/member_navigation_widget.dart
 
 import 'package:flutter/material.dart';
 

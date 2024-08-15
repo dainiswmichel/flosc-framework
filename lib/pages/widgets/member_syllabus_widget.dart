@@ -1,4 +1,4 @@
-// file: lib/widgets/member_syllabus.dart
+// file: lib/widgets/member_syllabus_widget.dart
 
 import 'package:flutter/material.dart';
 
